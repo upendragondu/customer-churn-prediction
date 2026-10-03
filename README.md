@@ -5,6 +5,11 @@
 Try the deployed application:
 
 👉 [Customer Churn Prediction App](https://indra-customer-churn.streamlit.app/)
+## 🚀 Live Demo
+
+Try the deployed application:
+
+👉 [Customer Churn Prediction App](https://indra-customer-churn.streamlit.app/)
 An end-to-end machine learning application that predicts customer churn probability and provides actionable retention recommendations.
 
 ## Problem
