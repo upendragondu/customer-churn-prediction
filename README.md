@@ -10,6 +10,9 @@ Try the deployed application:
 Try the deployed application:
 
 👉 [Customer Churn Prediction App](https://indra-customer-churn.streamlit.app/)
+## 📸 Application Screenshot
+
+![Customer Churn Prediction App](screenshots/churn_app.png)
 An end-to-end machine learning application that predicts customer churn probability and provides actionable retention recommendations.
 
 ## Problem
